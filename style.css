@@ -30,7 +30,7 @@ nav {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    gap: ;
+    
 }
 
 .card {
@@ -39,6 +39,13 @@ nav {
     width: 40px;
     height: 40px;
 }
+.boja{
+
+position: fixed; 
+bottom: 20px; 
+right: 20px;
+}
+
 
 
 

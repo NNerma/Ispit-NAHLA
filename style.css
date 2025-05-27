@@ -1,0 +1,21 @@
+nav {
+    background-color: #add8e6;
+    color: rgb(3, 3, 109);
+    padding: 1px;
+    
+}
+
+
+
+#nav ul li{
+    display: inline;
+    margin-right: 20px;
+    
+   
+}
+#nav ul {
+    list-style-type: none;
+}
+
+
+

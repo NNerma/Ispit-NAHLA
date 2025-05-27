@@ -17,5 +17,14 @@ nav {
     list-style-type: none;
 }
 
+.hero {
+    width: 100%;
+    height: 100px;
+    background-image: url(https://www.roditelji.me/wp-content/uploads/2012/04/crtez-2.jpg);
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(197, 128, 186);
+}
+
 
 
